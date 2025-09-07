@@ -49,17 +49,17 @@ This document contains commonly used **Window & Linux networking commands** alon
 ---
 
 ## Windows CMD
-- "ipconfig /all"  -> View system IP, Mac address, Gateway, and DNS
-- "ping -t <IP>"   -> Continuous ping test (until STOPPED)
-- "tracert <IP>"   -> Trace route to a destination host
+- `ipconfig /all`  -> View system IP, Mac address, Gateway, and DNS
+- `ping -t <IP>`   -> Continuous ping test (until STOPPED)
+- `tracert <IP>`   -> Trace route to a destination host
 
 ---
 
 ## Linux CMD
-- "ip a"       -> Show IP addresses & interface
-- "ping <ip>   -> Ping a host
-- "traceroute <IP>  -> Trace the path of an packet take to destination
-- "netstat -tulnp"  -> Show active ports and listening services
+- `ip a`       -> Show IP addresses & interface
+- `ping <IP>`   -> Ping a host
+- `traceroute <IP>` -> Trace the path of an packet take to destination
+- `netstat -tulnp`  -> Show active ports and listening services
 
 ---
 
